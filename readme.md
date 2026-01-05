@@ -38,7 +38,7 @@ Data menggagalkan asumsi bahwa "murah pasti laku". Visualisasi Strategic Map kam
 ## Cara Menjalankan/*Run* *Project*
 1. **Clone repository ini:**
 ```bash
-git clone https://github.com/gacoanphilia/redo-fp.git
+git clone https://github.com/gacoanphilia/redo-tsdw.git
 ```
 2. **Install dependencies**  
 Pastikan **Python** sudah terinstall! Kemudian jalankan kode di bawah ini:
